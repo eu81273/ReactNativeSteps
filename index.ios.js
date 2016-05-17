@@ -9,6 +9,7 @@ import React, { AppRegistry } from 'react-native';
 //import ReactNativeSteps from './06_touch';
 //import ReactNativeSteps from './07_flex';
 //import ReactNativeSteps from './08_gps';
-import ReactNativeSteps from './09_viewpager';
+//import ReactNativeSteps from './09_viewpager';
+import ReactNativeSteps from './11_statusbar';
 
 AppRegistry.registerComponent('ReactNativeSteps', () => ReactNativeSteps);
